@@ -4,7 +4,7 @@ My name is Guilherme Bellotti :v: and its a pleasure to see u here! :punch:
 
 :house:I'm from Brazil.
 
-:man: 28 years.
+:man: 29 years.
 
 :computer: a Javascript guy.
 
@@ -12,13 +12,17 @@ My name is Guilherme Bellotti :v: and its a pleasure to see u here! :punch:
 
 ### SKILLS ###
 
-- nodeJS
-- JavaScript
-- Delphi
-- SQL Server/ MYSQL
-- PHP
-- HTML
-- CSS
-- JQuery
+- Node JS : Expert
+- JavaScript : Expert
+- SQL Server/ MYSQL : Advanced 
+- Postgre : Intermediary
+- MongoDB : Intermediary
+- PHP : Intermediary
+- HTML : Intermediary
+- CSS : Intermediary
+- Delphi 7/10 : Advanced
+- Git - Advanced
+- Docker - Intermediary
+- Heroku - intermediary
 
 :soon: ReactJS
