@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Guilherme Bellotti :v: and its a pleasure to see u here! :punch:
+My name is Guilherme Bellotti :v: :punch:
 
 :house:I'm from Brazil.
 
-:man: 29 years.
+:man: 31 years.
 
 :computer: a Javascript guy.
 
@@ -14,15 +14,19 @@ My name is Guilherme Bellotti :v: and its a pleasure to see u here! :punch:
 
 - Node JS : Expert
 - JavaScript : Expert
+- Typescript : Advanced
+
 - SQL Server/ MYSQL : Advanced 
 - Postgre : Intermediary
-- MongoDB : Intermediary
+- MongoDB : Expert
+
 - PHP : Intermediary
 - HTML : Intermediary
 - CSS : Intermediary
-- Delphi 7/10 : Advanced
-- Git - Advanced
-- Docker - Intermediary
-- Heroku - intermediary
 
-:soon: ReactJS
+- Git - Advanced
+- BitBucket - Advanced
+- 
+- Docker - Intermediary
+- AWS - Intermediary
+- GCP - Intermediary
